@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hola, me llamo Diego Silva Molina.
 
-<!--
-**DiegoSilvaMolina/DiegoSilvaMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Me especializo en **Ciencia de Datos** y **Inteligencia de Negocios**.
 
-Here are some ideas to get you started:
+🚀 Actualmente, me enfoco en:
+- **Análisis de Datos**: Transformar datos en decisiones informadas.
+- **Visualización de Datos**: Crear dashboards interactivos y atractivos.
+- **ETL**: Desarrollar pipelines eficientes para la ingesta y transformación de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Siempre estoy aprendiendo más sobre **Machine Learning** y **Big Data**.
+
+💞️ Busco colaborar en proyectos que utilicen datos para impulsar el éxito empresarial.
+
+🔗 Conéctate conmigo para explorar oportunidades: [diegosx4@gmail.com](mailto:diegosx4@gmail.com)
